@@ -45,7 +45,7 @@ A full-stack AI-powered Tamil language learning platform built for the DTEC Hack
 | Dashboard | Shows usage stats, recent activity, quick actions, and learning progress |
 | Profile | Manages display name, preferred level, password, and daily streak data |
 | Points & Streaks | Awards +10 points for first session of the day, +5 for every feature use after |
-| Dark / Light Theme | Persisted theme toggle across the entire app |
+| Dark / Light Theme | Persisted theme toggle across the entire app ||
 
 ---
 
